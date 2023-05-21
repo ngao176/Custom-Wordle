@@ -7,3 +7,14 @@ The command line options are:
 -l <n>: the length of the target word.
 
 -a <n>: the maximum number of attempts allowed.
+
+[user@sahara ~/pa3_part2]$ ./a.out -l 4 -a 6
+Wordle (Difficulty: easy)
+You have 6 attempts to guess a 4-letter word.
+(Enter lowercase letters only.)
+they
+this
+thin
+Success! You guessed the word in 3 attempt(s)!
+double free or corruption (out)
+Aborted (core dumped)
