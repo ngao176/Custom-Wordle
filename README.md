@@ -15,6 +15,7 @@ You have 6 attempts to guess a 4-letter word.
 they
 this
 thin
+  
 Success! You guessed the word in 3 attempt(s)!
 double free or corruption (out)
 Aborted (core dumped)
